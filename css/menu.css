@@ -9,10 +9,10 @@ a:hover{
 
 .vl {
   border-left: 3px solid #49A3FF;
-  height: 250px;
+  height: 300px;
   position: absolute;
   left: 50%;
-  margin-left: 150px;
+  margin-left: 200px;
   top: 0;
 }
 
